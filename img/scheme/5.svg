@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>CALCULATOR</title>
+  <g>
+    <rect x="21.621" y="6.307" width="84.759" height="115.386" rx="5.003" fill="#477b9e"/>
+    <rect x="33.134" y="17.835" width="61.732" height="23.264" fill="#dbedff"/>
+    <rect x="57.442" y="52.613" width="13.116" height="11.513" fill="#f4dd45"/>
+    <rect x="81.75" y="52.613" width="13.116" height="11.513" fill="#f4dd45"/>
+    <rect x="33.134" y="52.613" width="13.116" height="11.513" fill="#f4dd45"/>
+    <rect x="57.442" y="75.64" width="13.116" height="11.513" fill="#f4dd45"/>
+    <rect x="81.75" y="75.64" width="13.116" height="34.54" fill="#f87c68"/>
+    <rect x="33.134" y="75.64" width="13.116" height="11.513" fill="#f4dd45"/>
+    <rect x="57.442" y="98.666" width="13.116" height="11.513" fill="#f4dd45"/>
+    <rect x="33.134" y="98.666" width="13.116" height="11.513" fill="#f4dd45"/>
+  </g>
+</svg>
